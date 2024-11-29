@@ -6,6 +6,8 @@
     <title>Coba git remote</title>
 </head>
 <body>
+    <p>petrus sardo</p>
+    <p>sayang irene</p>
     
 </body>
 </html>
